@@ -1,5 +1,7 @@
 # CS 310 W1 intro to Bash Scripting
 
+By Jonah Benton
+
 ## what does 'man' command allow you to do?
 Allows us to read documention on a specific coreutil command or libarary.
 
